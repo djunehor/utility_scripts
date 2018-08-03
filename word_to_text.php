@@ -1,4 +1,5 @@
 <?php
+//source: https://stackoverflow.com/questions/19503653/how-to-extract-text-from-word-file-doc-docx-xlsx-pptx-php
 class DocxConversion{
     private $filename;
 
